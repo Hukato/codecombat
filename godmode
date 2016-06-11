@@ -1,0 +1,2 @@
+  level.locked = not me.ownsLevel level.original
+  
